@@ -28,3 +28,11 @@
 .right {
     width: 50%;
 } 
+
+.hr-styling {
+    border: 2px solid black;
+}
+
+.submit-button {
+    width: 200px;
+}
