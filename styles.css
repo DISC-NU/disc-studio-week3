@@ -11,3 +11,7 @@
 .heading-color {
     color: lightseagreen;
 }
+
+.remove-top-margin {
+    margin-top: -5px;
+}
